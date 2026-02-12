@@ -8,7 +8,7 @@ which Sustainable Development Goal your app prototype supports.
 2.Hoo Tyng En 
 3.Lau Ern Ling 
 4.Lean Wen Xi 
-5. 
+5.Cheong Min Jien
 
 # [Project Description]
 idea?  帮助人群？
