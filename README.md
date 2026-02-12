@@ -2,6 +2,7 @@
 
 ## 【Project Title & SDG Chosen】 
 which Sustainable Development Goal your app prototype supports. 
+SDG 4: Quantity Education
 
 # 【Team Members】
 1.Teh Yu Jing - role
@@ -12,9 +13,16 @@ which Sustainable Development Goal your app prototype supports.
 
 # [Project Description]
 idea?  帮助人群？
+Student Helpdesk Software
+Inside this software, we focus on the things that could help uni student:
+1. student can upload their teaching recording: those student who achieved a good results, they can upload their teaching video according to any topic
+2. in this student helpdesk software, lecturer can insert their available timeslot to let student book their consultation time
+3. lecturer can upload passyear paper, student can upload their study note
+4. mentor and mentee program
 
 # [SDLC overview]
-planning 
+planning
+analysis
 design 
 testing 
 
