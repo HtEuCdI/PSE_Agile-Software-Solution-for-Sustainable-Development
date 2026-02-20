@@ -12,7 +12,7 @@ SDG 4: Quantity Education
 5.Cheong Min Jien
 
 # [Project Description]
-idea?  帮助人群？
+
 Student Helpdesk Software
 Inside this software, we focus on the things that could help uni student:
 1. student can upload their teaching recording: those student who achieved a good results, they can upload their teaching video according to any topic
