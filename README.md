@@ -21,10 +21,6 @@ Inside this software, we focus on the things that could help uni student:
 4. mentor and mentee program
 
 # [SDLC overview]
-planning
-analysis
-design 
-testing 
-
-* short summary of how you went through planning, design, 
-testing/evaluation. 
+1. Planning
+   For planning part, we are going to overview our product what and how to do, and we are going to do a student helpdesk software, which include recording section, practice section, mentor-mentee programe section and so on. Also, in this planning phase, we going to discuss in details our product's requirements, and also backlog.
+2. Design
