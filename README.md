@@ -6,7 +6,7 @@ Student Hekpdesk, SDG 4: Quantity Education
 # 【Team Members】
 1.Teh Yu Jing - role
 2.Hoo Tyng En 
-3.Lau Ern Ling 
+3.Lau Ern Ling
 4.Lean Wen Xi 
 5.Cheong Min Jien
 
