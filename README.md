@@ -1,7 +1,7 @@
 # PSE_Agile-Software-Solution-for-Sustainable-Development
 
 ## 【Project Title & SDG Chosen】 
-Student Hekpdesk, SDG 4: Quantity Education
+RamenDesk Software, SDG 4: Quantity Education
 
 # 【Team Members】
 1.Teh Yu Jing - role
@@ -13,11 +13,15 @@ Student Hekpdesk, SDG 4: Quantity Education
 # [Project Description]
 
 Student Helpdesk Software
-Inside this software, we focus on the things that could help uni student:
-1. student can upload their teaching recording: those student who achieved a good results, they can upload their teaching video according to any topic
-2. in this student helpdesk software, lecturer can insert their available timeslot to let student book their consultation time
-3. in this software, we have an AI function that can randomly provide student some practice question according to the topic that student upload to the AI.
-4. mentor and mentee program
+Inside this software, we focus on the things that could help university student:
+1. student can view the video uploaded by lecturer, and can like, dislike or comment to ask the question
+2. lecturer can upload teaching video
+3. student can upload their note to share their study materials or study method
+4. student can download the past year paper as PDF to do the revision for exam
+5. lecturer can upload past year paper
+6. lecturer can insert their available timeslot and also remove the unvailable timeslot
+7. student can book the lecturer timeslot and also cancel the booking
+8. student can use the schedule planning section to update thier assignment due date, midterm date and so on
 
 # [SDLC overview]
 
