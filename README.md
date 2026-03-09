@@ -30,9 +30,7 @@ Inside this software, we focus on the things that could help university student:
 2.Analysis
    In this analysis stage, we analysis the functional and non-functional requirements, and convert it to use case and class diagram, this stage easy to let the development team easy to create the wireframe and prototype.
 3. Design:
-   For design part, we are going to design use case diagram and class diagram, which to reflect student and teacher communication and interaction. And also, in this stage, we will create wireframe ti overlook the prototype.
-3.Implementation:
-   we starting to do the prototype, which is use the requirements that we gathered and the diagram we already done to do prototype.
+   For design part, we are going to design use case diagram and class diagram, which to reflect student and teacher communication and interaction. And also, in this stage, we will create wireframe to overlook the prototype.
 4.Prototype development
    In this stage, the mockup design and early prototype is done, which is follow the use case diagram to do the features, and include the user feedback to improve the prototype.
 5. Testing:
