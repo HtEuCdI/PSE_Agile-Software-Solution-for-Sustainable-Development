@@ -4,11 +4,11 @@
 RamenDesk Software, SDG 4: Quantity Education
 
 # 【Team Members】
-1.Teh Yu Jing - role
-2.Hoo Tyng En 
-3.Lau Ern Ling
-4.Lean Wen Xi 
-5.Cheong Min Jien
+1.Teh Yu Jing - use case and wireframe designer, development team
+2.Hoo Tyng En - prototype developer, development team
+3.Lau Ern Ling - prototype developer, development team
+4.Lean Wen Xi - class diagram designer, scrum master
+5.Cheong Min Jien - Requirement Analyst, product owner
 
 # [Project Description]
 
