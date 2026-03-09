@@ -26,13 +26,17 @@ Inside this software, we focus on the things that could help university student:
 # [SDLC overview]
 
 1. Planning:
-   For planning part, we are going to overview our product what and how to do, and we are going to do a student helpdesk software, which include recording section, practice section, mentor-mentee programe section and so on. Also, in this planning phase, we going to discuss in details our product's requirements, and also backlog.
-2. Design:
+   In this planning phase, we going to gathred all the requiremnts of RamenDesk software from stakeholders and user.Next, also to crete our trello to follow the spirnt flow, to ensure the software is successfully completed.
+2.Analysis
+   In this analysis stage, we analysis the functional and non-functional requirements, and convert it to use case and class diagram, this stage easy to let the development team easy to create the wireframe and prototype.
+3. Design:
    For design part, we are going to design use case diagram and class diagram, which to reflect student and teacher communication and interaction. And also, in this stage, we will create wireframe ti overlook the prototype.
 3.Implementation:
    we starting to do the prototype, which is use the requirements that we gathered and the diagram we already done to do prototype.
-4. Testing:
+4.Prototype development
+   In this stage, the mockup design and early prototype is done, which is follow the use case diagram to do the features, and include the user feedback to improve the prototype.
+5. Testing:
    For testing stage, we done the prototype and let the student to use, and give us the feedback to improve our product, and also, use the feedback to know more issues and problem that we did.   
-5. Final:
+6. Final:
    After prototype's improvement done, we finalise our product, and give some conclusion to it.
    
