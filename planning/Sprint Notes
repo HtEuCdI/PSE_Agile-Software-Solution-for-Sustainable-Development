@@ -1,0 +1,258 @@
+SHOW USAGE OF AGILE METHOD !!
+Explain the structure of our trello board
+Show the examples of our user stories
+Mention sprint planning
+How did you decide these features?
+Daily stands up and sprint retrospective
+Quick daily check in
+Talk about what problems we faced
+How we fixed it
+After finishing the Figma prototype, what did you learn to improve for the next version?
+
+WEEK 1 (Sprint 1)
+Form groups
+Assign roles (design / implement)
+Choose SDG 
+Create Product Vision (features)
+Initial Backlog 
+Set up Kanban board 
+
+WEEK 2 (Sprint 1)
+Sprint planning 
+Use Case & Case Diagram drafts 
+UI sketches 
+Early Prototype 
+Test Plan 
+Sprint Review and Retrospective 
+
+WEEK 3 (Sprint 2)
+Develop improved prototype
+run tests
+Bug reports
+Updated burndown chart
+Sprint Review and Retrospective 
+
+WEEK 4 (Sprint 2)
+Finalize Prototype
+Prepare slides
+Rehearse
+Compile full report 
+Final submission
+
+
+
+
+List in Trello
+
+Product Backlog                                 spr 001 
+user login select their role
+User login select their university
+User login enter email and password
+Video library select subject
+Video library 
+Sprint 1: To do 
+Form groups
+Assign roles 
+Choose SDG 
+Create Product Vision
+Initial Backlog 
+Set up Kanban board 
+Sprint planning 
+Use Case & Case Diagram drafts 
+UI sketches 
+Early Prototype 
+Test Plan 
+Sprint Review and Retrospective 
+Sprint 1: Doing 
+Sprint 1: Done 
+Sprint 2: To do 
+Develop improved prototype
+run tests
+Bug reports
+Updated burndown chart
+Sprint Review and Retrospective 
+Finalize Prototype
+Prepare slides
+Rehearse
+Compile full report 
+Final submission
+Sprint 2: Doing 
+Sprint 2: Done
+Improvements 
+
+Content ideas
+
+
+
+
+ → US02 — Select university on registration 
+As a new user, I want to select my university from a list during registration so that I see content relevant to my institution. 
+→ US03 — User role selection
+As a new student, I want to select my role during registration so that the system personalises my experience
+→ US05 — Login with email and password 
+As a user, I want to log in using my university email and password so that I can securely access my account 
+→ US06 —
+
+As a user, I want the system to reject unrecognised email domains so that only valid university members can register
+
+FR02 - Video library 
+
+→ US07 — Lecturer upload teaching video 
+As a lecturer, I want to upload a teaching video with a title, subject, and topic so that students can access my content anytime
+→ US08 — Browse videos by subject and topic 
+As a student, I want to browse videos organised by subject and topic so that I can find content relevant to what I am studying
+→ US09 — Videos ranked by likes 
+As a student, I want to see videos ranked by number of likes so that the highest quality content appears first
+→ US10 — Like or dislike a video 
+-As a student, I want to like or dislike a video so that I can rate the quality of the content
+→ US11 — Comment on a video
+As a student, I want to comment on a video so that I can ask questions and discuss the topic with peers
+→ US12 — View individual video page
+As a student, I want to view a video on its own dedicated page so that I can watch it without distractions
+
+FR03 - Notes library 
+
+US13 - Upload notes 
+As a student, I want to upload my notes organised by subject and topic so that peers can find and benefit from them
+US14 - Browse notes 
+As a student, I want to browse notes organised by subject and topic so that I can find relevant study materials
+US15 - See progress bar 
+As a student,  I want to see a progress bar showing how close am I to receiving a certificate so that I stay motivated to contribute quality content
+US16 - Receive Consistency excellence certificate 
+As a student, I want to receive a Consistency Excellence Certificate when I upload 15 high quality notes in a year so that my contributions are formally recognised
+
+
+FR04 - past year papers 
+
+US17 - Upload past year papers 
+As a lecturer, I want to upload past year examination papers organised by subject and year so that students can access them easily
+US18 - Browse past year papers 
+As a student, I want to browse past year papers filtered by subject and year so that I can find the right papers to practice for exam preparation
+US19 - Download past year papers as pdf 
+As a student, I want to download past year papers so that I can edit them, and study them offline 
+
+FR05 - Interactive quiz 
+US20 - Select subject and topic 
+As a student, I want to select a subject and topic before starting a quiz so that I can practise the specific area I am studying
+US21 - Answer interactive quiz 
+As a student, I want to answer interactive quiz so that I can actively recall information
+US22 - View quiz result 
+As a student, I want to view quiz result so that I can refer back to those the question I want to revise
+US23 -  Progress bar of interactive quiz 
+As a student, I want a progress bar to keep track with the interactive quiz I’ve done for each subject
+
+Earn badges 
+As a student, I want to earn badges based on my quiz performance so that my achievements are recognised
+
+Leaderboard 
+As a student, I want to view a leaderboard showing top performers so that I can see how I rank among my peers
+
+Practice module 
+
+Exam format practice questions organised by chapter 
+As a student, I want to access exam-format practice questions organised by chapter so that I can prepare practically for exams
+Download practice module as pdf 
+As a student, I want to download practice questions so that I can attempt them offline
+Upload answer schemes for practice
+As a lecturer, I want to upload answer schemes for practice questions so that students can refer to the correct answers after attempting them
+
+Lecturer consultation booking 
+
+Edit consultation timeslot 
+As a lecturer, I want to add or cancel my consultation timeslots so that I can manage changes to my availability
+available lecturer consultation timeslot 
+As a student, I want to view available lecturer consultation timeslots so that I can find a suitable time to book
+Book consultation timeslot 
+As a student, I want to book a consultation timeslot so that I can get academic help from my lecturer
+Received confirmation notification after booking 
+As a user, I want to receive a confirmation notification after booking a consultation so that both parties are informed
+
+Schedule Planner 
+
+Set assignment deadlines 
+As a student, I want to add assignment deadlines to my schedule planner so that I can track my upcoming submissions
+Set examination dates 
+As a student, I want to add examination dates to my schedule planner so that I can prepare in advance
+Set personal academic task 
+As a student, I want to add personal academic activities to my schedule so that I have a complete view of my commitments
+Set upcoming deadlines and events in a place 
+As a student, I want to view all upcoming deadlines and events in one place so that I can manage my time effectively
+Consultation bookings automatically appear in my schedule planner
+As a student, I want consultation bookings to automatically appear in my schedule planner so that my calendar stays up to date
+
+Dashboard 
+
+total points earned 
+As a student, I want to see my total earned points on the dashboard so that I can track my quiz performance at a glance
+earned badges 
+As a student, I want to see my earned badges on the dashboard so that my achievements are visibly recognised
+weekly ranking 
+As a student, I want to see my current weekly ranking on the dashboard so that I am motivated to improve my position
+weekly schedule 
+As a student, I want to see my schedule for the current week on the dashboard so that I have an immediate overview of my upcoming commitments
+total number of videos uploaded 
+As a lecturer, I want to see the total number of videos I have uploaded on my dashboard so that I can monitor my content contributions
+upcoming consultation of the week 
+As a lecturer, I want to see how many students have booked my consultation slots on my dashboard so that I can prepare accordingly
+Weekly schedule 
+As a lecturer, I want to see my weekly schedule on the dashboard so that I can plan my availability
+
+
+My account 
+
+Personal information 
+As a student, I want to view my personal information on my account page so that I can verify my profile details
+Quiz progress and achivements badges 
+As a student, I want to view my quiz progress and earned badges on my account page so that I can see a summary of my achievements
+Certificate collection 
+As a student, I want to view certificates I have earned on my account page so that I have a record of my recognised contributions
+Total number of videos uploaded 
+As a lecturer, I want to view the total number of videos I have uploaded on my account page so that I can manage my content
+List of videos uploaded 
+As a lecturer, I want to view the list of videos I have uploaded on my account page so that I can review or manage them
+Total number of students consulted 
+As a lecturer, I want to view how many students I have consulted on my account page so that I can track my engagement
+
+
+Sprint 1 - role selection, university selection, school email, pw
+
+Day 1 todo: doing role selection and uni done: role selection, testing 
+Day 2  todo uni selection school email done: both
+Day 3 pw
+Day 4 
+Day 5 
+
+
+Sprint 2 
+
+Day 1 
+Day 2 
+Day 3 
+Day 4 
+Day 5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
