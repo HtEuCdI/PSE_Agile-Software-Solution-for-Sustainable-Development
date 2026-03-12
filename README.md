@@ -1,16 +1,20 @@
 # PSE_Agile-Software-Solution-for-Sustainable-Development
 
-## 【Project Title & SDG Chosen】 
-RamenDesk Software, SDG 4: Quantity Education
+## 【Project Title】 
+RamenDesk Software 
 
-# 【Team Members】
+## [Sustainable Development Goal (SDG)]
+
+
+
+##【Team Members】
 1.Teh Yu Jing - use case and wireframe designer, development team
 2.Hoo Tyng En - prototype developer, development team
 3.Lau Ern Ling - prototype developer, development team
 4.Lean Wen Xi - class diagram designer, scrum master
 5.Cheong Min Jien - Requirement Analyst, product owner
 
-# [Project Description]
+##[Project Description]
 
 Student Helpdesk Software
 Inside this software, we focus on the things that could help university student:
@@ -23,7 +27,7 @@ Inside this software, we focus on the things that could help university student:
 7. student can book the lecturer timeslot and also cancel the booking
 8. student can use the schedule planning section to update thier assignment due date, midterm date and so on
 
-# [SDLC overview]
+##[SDLC overview]
 
 1. Planning:
    In this planning phase, we going to gathred all the requiremnts of RamenDesk software from stakeholders and user.Next, also to crete our trello to follow the spirnt flow, to ensure the software is successfully completed.
