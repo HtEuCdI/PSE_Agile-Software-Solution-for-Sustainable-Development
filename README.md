@@ -41,8 +41,8 @@ For design part, wireframes of RamenDesk were created to visualize the system in
 In this stage, an interactive prototype was developed by using Figma. It stimulates the main features of RamenDesk and allows users to navigate through RamenDesk to demonstrate how the software would work in real scenario.
 
 5. Testing:
-For testing stage, 
+For testing stage, user acceptance testing (UAT) were carried out by sharing the prototype link to 13 intended users. The feedback was collected by using Google Form questionnaire. The results were used to evaluate RamenDesk's usability and functionality.
 
 6. Final:
-After prototype's improvement done, we finalise our product, and give some conclusion to it.
+After the protoype was finalised, our team proceeded with our project documentation and presentation.
    
